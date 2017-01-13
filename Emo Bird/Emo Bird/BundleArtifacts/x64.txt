@@ -1,0 +1,2 @@
+MainPackage=C:\Users\katy\Documents\FlappyBird\Emo Bird\Emo Bird\bin\x64\Master\Emo Bird_1.2.0.0_x64_Master.appx
+SymbolPackage=C:\Users\katy\Documents\FlappyBird\Emo Bird\Emo Bird\AppPackages\Emo Bird_1.2.0.0_Master_Test\Emo Bird_1.2.0.0_x64_Master.appxsym
